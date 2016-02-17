@@ -1,0 +1,4 @@
+这是一段titanium框架下的app利用sharesdk实现第三方登录和分享功能的示例代码，
+里面的sharesdk的模块和很多的东西都是来自于明星框架的。使用的sharesdk模块也
+是来源于明星的github。
+sharesdk的module网址是https://github.com/liumingxing/titanium_module_sharesdk。
